@@ -244,25 +244,3 @@ Verifica que PostgreSQL esté corriendo y las credenciales sean correctas en `ba
 
 ### Error 401 Unauthorized
 El token JWT expira después de 30 minutos. Simplemente inicia sesión nuevamente.
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT.
-
-## 👥 Contribuir
-
-Las contribuciones son bienvenidas! Por favor:
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📧 Contacto
-
-Para preguntas o sugerencias, por favor abre un issue en GitHub.
-
----
-
-**Hecho con ❤️ por el equipo de CinemaPP**
